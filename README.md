@@ -7,7 +7,7 @@ This repo clusters raw `.pcd` files with DBSCAN, assigns **weak multi-labels** w
 
 ---
 <p align="center">
-  <img src="assets/weaklabels.png" alt="Weak label pipeline" width="700"/>
+  <img src="assets/weaklabels.png" alt="Weak label pipeline" width="350"/>
 </p>
 
 ## ✨ What you get
