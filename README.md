@@ -6,6 +6,9 @@ This repo clusters raw `.pcd` files with DBSCAN, assigns **weak multi-labels** w
 > New to 3D ML? Start here, then iterate. The code is small, readable, and documented.
 
 ---
+<p align="center">
+  <img src="assets/weaklabels.png" alt="Weak label pipeline" width="700"/>
+</p>
 
 ## ✨ What you get
 
